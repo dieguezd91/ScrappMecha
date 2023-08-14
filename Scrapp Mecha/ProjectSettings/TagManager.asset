@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemigo
+  - Obstaculo
+  - Item
+  - Puerta
+  - Plataforma
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemigos
+  - Obstaculos
+  - Pared
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2820044389
+    locked: 0
+  - name: Player
+    uniqueID: 1204557195
+    locked: 0
+  - name: Plataformas
+    uniqueID: 2860047421
+    locked: 0
+  - name: Items
+    uniqueID: 2157819503
+    locked: 0
+  - name: Background
+    uniqueID: 1289666773
+    locked: 0

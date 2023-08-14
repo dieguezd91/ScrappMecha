@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: tilelab atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 37220fb305bd8a04ca2466ddc01241db, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 8547813544269312533, guid: 37220fb305bd8a04ca2466ddc01241db, type: 3}
+  - {fileID: -7830053077292607451, guid: 37220fb305bd8a04ca2466ddc01241db, type: 3}
+  - {fileID: -2972009073084705682, guid: 37220fb305bd8a04ca2466ddc01241db, type: 3}
+  - {fileID: 2330442420982001838, guid: 37220fb305bd8a04ca2466ddc01241db, type: 3}
+  - {fileID: 150947629928980939, guid: 37220fb305bd8a04ca2466ddc01241db, type: 3}
+  - {fileID: -399993925706891038, guid: 37220fb305bd8a04ca2466ddc01241db, type: 3}
+  - {fileID: 165642672944006715, guid: 37220fb305bd8a04ca2466ddc01241db, type: 3}
+  - {fileID: 4697881656477091180, guid: 37220fb305bd8a04ca2466ddc01241db, type: 3}
+  - {fileID: -4769252279295530651, guid: 37220fb305bd8a04ca2466ddc01241db, type: 3}
+  - {fileID: 8676088433328041346, guid: 37220fb305bd8a04ca2466ddc01241db, type: 3}
+  - {fileID: 4621229981730407049, guid: 37220fb305bd8a04ca2466ddc01241db, type: 3}
+  - {fileID: -1927409367474794169, guid: 37220fb305bd8a04ca2466ddc01241db, type: 3}
+  - {fileID: 4474607270240923136, guid: 37220fb305bd8a04ca2466ddc01241db, type: 3}
+  - {fileID: 8772084913023818805, guid: 37220fb305bd8a04ca2466ddc01241db, type: 3}
+  - {fileID: 1101478312002832724, guid: 37220fb305bd8a04ca2466ddc01241db, type: 3}
+  - {fileID: 8085035221008453457, guid: 37220fb305bd8a04ca2466ddc01241db, type: 3}
+  - {fileID: -9086581313054093359, guid: 37220fb305bd8a04ca2466ddc01241db, type: 3}
+  - {fileID: 7585709075712160108, guid: 37220fb305bd8a04ca2466ddc01241db, type: 3}
+  - {fileID: 6064384481010517657, guid: 37220fb305bd8a04ca2466ddc01241db, type: 3}
+  - {fileID: 8271630527976527590, guid: 37220fb305bd8a04ca2466ddc01241db, type: 3}
+  - {fileID: -6000772389328710020, guid: 37220fb305bd8a04ca2466ddc01241db, type: 3}
+  - {fileID: -4886426848166897630, guid: 37220fb305bd8a04ca2466ddc01241db, type: 3}
+  - {fileID: 2248142381246377614, guid: 37220fb305bd8a04ca2466ddc01241db, type: 3}
+  - {fileID: -3590091963452113692, guid: 37220fb305bd8a04ca2466ddc01241db, type: 3}
+  - {fileID: 4498810603758171160, guid: 37220fb305bd8a04ca2466ddc01241db, type: 3}
+  - {fileID: -1405384902511682296, guid: 37220fb305bd8a04ca2466ddc01241db, type: 3}
+  - {fileID: -5058547244832084722, guid: 37220fb305bd8a04ca2466ddc01241db, type: 3}
+  - {fileID: 1705638590181216650, guid: 37220fb305bd8a04ca2466ddc01241db, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - tile-lab_4
+  - tile-lab_5
+  - tile-lab_6
+  - tile-lab_7
+  - tile-lab_0
+  - tile-lab_1
+  - tile-lab_2
+  - tile-lab_19
+  - tile-lab_3
+  - tile-lab_18
+  - tile-lab_17
+  - tile-lab_16
+  - tile-lab_15
+  - tile-lab_14
+  - tile-lab_8
+  - tile-lab_13
+  - tile-lab_9
+  - tile-lab_12
+  - tile-lab_11
+  - tile-lab_10
+  - tile-lab_22
+  - tile-lab_23
+  - tile-lab_20
+  - tile-lab_21
+  - tile-lab_26
+  - tile-lab_27
+  - tile-lab_24
+  - tile-lab_25
+  m_RenderDataMap: {}
+  m_Tag: tilelab atlas
+  m_IsVariant: 0

@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: tilerocas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: cbb0120fbb5ea7c489853283b4a574a9, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 3404244051119507786, guid: cbb0120fbb5ea7c489853283b4a574a9, type: 3}
+  - {fileID: -2686710138999836759, guid: cbb0120fbb5ea7c489853283b4a574a9, type: 3}
+  - {fileID: 4221984984872919014, guid: cbb0120fbb5ea7c489853283b4a574a9, type: 3}
+  - {fileID: 8481250940132355156, guid: cbb0120fbb5ea7c489853283b4a574a9, type: 3}
+  - {fileID: -7846573418276751045, guid: cbb0120fbb5ea7c489853283b4a574a9, type: 3}
+  - {fileID: 7229749399703020392, guid: cbb0120fbb5ea7c489853283b4a574a9, type: 3}
+  - {fileID: 1113348577474489957, guid: cbb0120fbb5ea7c489853283b4a574a9, type: 3}
+  - {fileID: -3949000534816921926, guid: cbb0120fbb5ea7c489853283b4a574a9, type: 3}
+  - {fileID: 6551558198961786450, guid: cbb0120fbb5ea7c489853283b4a574a9, type: 3}
+  - {fileID: -167333078414356543, guid: cbb0120fbb5ea7c489853283b4a574a9, type: 3}
+  - {fileID: 798895353477990292, guid: cbb0120fbb5ea7c489853283b4a574a9, type: 3}
+  - {fileID: 8753743848158694433, guid: cbb0120fbb5ea7c489853283b4a574a9, type: 3}
+  - {fileID: -5915198833960785074, guid: cbb0120fbb5ea7c489853283b4a574a9, type: 3}
+  - {fileID: -2878150947749143784, guid: cbb0120fbb5ea7c489853283b4a574a9, type: 3}
+  - {fileID: -5810781319058521303, guid: cbb0120fbb5ea7c489853283b4a574a9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - tile-set-tierra_piedra_5
+  - tile-set-tierra_piedra_4
+  - tile-set-tierra_piedra_7
+  - tile-set-tierra_piedra_6
+  - tile-set-tierra_piedra_1
+  - tile-set-tierra_piedra_0
+  - tile-set-tierra_piedra_3
+  - tile-set-tierra_piedra_2
+  - tile-set-tierra_piedra_9
+  - tile-set-tierra_piedra_8
+  - tile-set-tierra_piedra_14
+  - tile-set-tierra_piedra_10
+  - tile-set-tierra_piedra_11
+  - tile-set-tierra_piedra_12
+  - tile-set-tierra_piedra_13
+  m_RenderDataMap: {}
+  m_Tag: tilerocas
+  m_IsVariant: 0
